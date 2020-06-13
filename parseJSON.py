@@ -8,6 +8,6 @@ data = json.load(f)
 
 #print the data for each food
 #for i in data['breakfast_menu']['food']:
-    print(i)
+#    print(i)
 
 f.close()

@@ -4,3 +4,4 @@ DevNet - Module 1
     - JSON
     - XML
     - YAML
+- Git resources

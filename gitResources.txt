@@ -1,0 +1,30 @@
+https://git-scm.com/
+
+git init
+git status
+git add .
+git add hello_world.py
+git ls-files
+git commit
+git commit -m "Commit message"
+git commit -am "Add and Commit message"
+git log --oneline --decorate
+git log --oneline --decorate --graph
+git fetch
+git pull
+git pull origin master
+git push
+git push origin master
+git remote add origin https://github.com/prydzkow/starter-repo-local.git
+git remote set-url origin https://github.com/prydzkow/starter-repo-local.git
+git push --set-upstream origin master
+git remote -v
+git branch mynewbranch
+git branch
+git branch -a
+git checkout mynewbranch
+git branch -m mynewbranch newbranch
+git branch -d newbranch
+git checkout -b newbranch
+git diff master newbranch
+git merge newbranch

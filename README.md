@@ -5,3 +5,5 @@ DevNet - Module 1
     - XML
     - YAML
 - Git resources
+    - git commands
+    - url's

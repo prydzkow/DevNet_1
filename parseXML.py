@@ -5,7 +5,7 @@ tree = ET.parse('sampleFile.xml')
 #get the root element of the file and store it in 'root'
 root = tree.getroot()
 
-print(root.tag)
+#print(root.tag)
 #print(root.attrib)
 #print(root[0].text)
 #print(root[1][0].text)

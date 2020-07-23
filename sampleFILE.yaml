@@ -1,5 +1,5 @@
 ---
-  # <- yaml supports comments, json does not
+# <- yaml supports comments, json does not
 # did you know you can embed json in yaml?
 # try uncommenting the next line
 #{ foo: 'bar' }

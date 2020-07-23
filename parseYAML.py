@@ -18,4 +18,8 @@ parsed_data = yaml.load(data, Loader=yaml.FullLoader)
 #    print(i)
 #    print(type(i))
 
+new_yaml = yaml.dump(parsed_data)
+print(new_yaml)
+print(type(new_yaml))
+
 data.close()

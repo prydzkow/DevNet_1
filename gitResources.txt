@@ -32,3 +32,5 @@ git checkout -b newbranch
 git diff master newbranch
 git merge newbranch
 cat .gitignore
+git reset (--hard)
+git restore
